@@ -1,0 +1,21 @@
+This is cartoon sportcar (1 objects)
+
+Models:
+
+Sportcar- Vertices: 2969; Polygons: 2711
+
+Create in Blender 3d v 2.91.0
+
+File formats:
+
+Blender 3d v 2.91.0
+OBJ; MTL
+Fbx
+Gltf
+The preview images were rendered in Blender 3d (Cycles; 1024 Samples)
+
+Materials: 5
+
+Vertices: 2969; Polygons: 2711
+
+Created by Tykryk
